@@ -1,0 +1,220 @@
+@media(min-width:768px){
+    max-width: 1024px;
+}
+#form-box{
+    background-color: #ffffff;
+    height: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    border-bottom: solid #bebebe;
+}
+#left-form-box{
+    background-color: #02a1fd;
+    height: 600px;
+    text-align: justify;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    border-bottom: solid #bebebe;
+}
+#left-form-box h3{
+    text-align: center;
+    margin-top: 50px;
+}
+#form-box h3{
+    text-align: center;
+}
+#login-box h3{
+    text-align: center;
+}
+#login-box{
+    background-color: #ffffff;
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    border-bottom: solid #bebebe;
+}
+#cont-center{
+    background-color: transparent;
+}
+body{
+    max-width: 100% !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+.button-trans{
+    background-color: transparent !important;
+	border: solid transparent !important;
+}
+footer{
+    background-color: #37474f;
+    height: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    bottom: 0;
+    position: relative;
+}
+
+.footer-art{
+    margin-top: 30px;
+}
+
+.socmed{
+    text-align: center;
+}
+
+.carousel{
+    height: 400px;
+}
+
+article{
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    margin-top: 10px;
+
+}
+
+.art-content{
+    text-align: justify;
+    margin-top: 15px;
+}
+
+.form{
+    text-align: center;
+    margin:  auto;
+    background-color: #e0e2e450;
+    box-shadow: 10px;
+
+}
+
+.formbox{
+    text-align: left;
+    margin: 10px auto auto;
+    width: 95%;
+
+}
+
+.button-cust{
+    margin: 10px 30px;
+}
+
+.butt{
+    width: 130px;
+
+}
+
+.loginbox{
+    width: 400px;
+    background-color: #e0e2e450;
+    box-shadow: #37474f;
+    padding:  15px 20px;
+} 
+
+.logindesc{
+    font-size: 11pt;
+    color: #757575;
+    margin: 2px;
+    padding-left: 2px;
+    font-family: Arial;
+}
+
+.form-login{
+    margin: 80px;
+    width: 97%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.check{
+    margin: 5px;
+    font-size: 10pt;
+    color: #757575;
+    margin-top: 4px;
+    margin-right: 2px;
+    padding-left: 2px;
+    font-family: Arial;
+}
+
+.submit{
+    width: 30%;
+    margin: 20px 135px 0px;
+    padding: 5px;
+    border: 0px;
+    background-color: #0494e7b2;
+    color: white;
+    font-weight: 600;
+    font-size: 13pt;
+}
+
+.forgot{
+    margin: 5px 5px 5px 180px;
+    color: #0277bd;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    text-align: right;
+}
+
+
+.signinbox{
+    width: 400px;
+    height: 100px;
+    background: rgba(3, 185, 209, 0.568);
+    padding:  10px 20px 0px;
+}
+
+.signindesc{
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 13pt;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.signin{
+    width: 50%;
+    margin: 5px 100px 0px;
+    padding: 5px;
+    border: 0px;
+    background-color:#FFFFFF;
+    color: rgba(3, 185, 209, 0.699);
+    font-weight: 600;
+    font-size: 13pt;
+}
+
+/*SAA*/
+section {
+    min-height: 800px;
+}
+
+.content1 {
+     margin-top:50px;
+}
+
+.content2 {
+     margin-top:30px;
+}
+
+.jumbotron h1{
+    color: #111;
+}
+
+.jumbotron p{
+    color: #111;
+}
+
+.card h5{
+    color: #111;
+}
+
+.card p{
+    color: #111;
+}
+
+/*SAA*/
